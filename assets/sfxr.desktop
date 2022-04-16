@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=sfxr
+Type=Application
+Version=1.2.1
+Comment=Generate sound effects
+Exec=sfxr
+Icon=/usr/share/icons/hicolor/48x48/apps/sfxr.png
+Terminal=false
+Categories=AudioVideo;Audio;AudioVideoEditing;
